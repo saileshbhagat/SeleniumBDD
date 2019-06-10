@@ -47,5 +47,5 @@ Scenario Outline: Dropdown Selection
 	Examples:
 	
 	|airlines|
-	|Unified Airlines| 
+	|Pangea Airlines| 
 	
